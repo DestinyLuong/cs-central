@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cs-central/static/css/main.7f831702.chunk.css",
-    "main.js": "/cs-central/static/js/main.d05343bd.chunk.js",
-    "main.js.map": "/cs-central/static/js/main.d05343bd.chunk.js.map",
+    "main.js": "/cs-central/static/js/main.7048f56a.chunk.js",
+    "main.js.map": "/cs-central/static/js/main.7048f56a.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.js": "/cs-central/static/js/react-syntax-highlighter_languages_refractor_abap.bf4e57fb.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js.map": "/cs-central/static/js/react-syntax-highlighter_languages_refractor_abap.bf4e57fb.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/cs-central/static/js/react-syntax-highlighter_languages_refractor_actionscript.3841329f.chunk.js",
@@ -317,15 +317,14 @@
     "static/css/main.7f831702.chunk.css.map": "/cs-central/static/css/main.7f831702.chunk.css.map",
     "static/js/153.cefd52cb.chunk.js.LICENSE.txt": "/cs-central/static/js/153.cefd52cb.chunk.js.LICENSE.txt",
     "static/media/Contact.acb21bc4.png": "/cs-central/static/media/Contact.acb21bc4.png",
-    "static/media/CrisBio.11d7aa02.jpg": "/cs-central/static/media/CrisBio.11d7aa02.jpg",
-    "static/media/JesusBio.7f6a7b0f.PNG": "/cs-central/static/media/JesusBio.7f6a7b0f.PNG",
-    "static/media/KarenBio.0bd0fd2f.png": "/cs-central/static/media/KarenBio.0bd0fd2f.png",
+    "static/media/DestinyBio.36797e9c.jpg": "/cs-central/static/media/DestinyBio.36797e9c.jpg",
     "static/media/LandingPage.17ddb814.png": "/cs-central/static/media/LandingPage.17ddb814.png",
+    "static/media/MarcosBio.66dd329e.jpg": "/cs-central/static/media/MarcosBio.66dd329e.jpg",
     "static/media/PREPHome.2a9321c4.png": "/cs-central/static/media/PREPHome.2a9321c4.png",
     "static/media/SampleLesson.2abc37eb.png": "/cs-central/static/media/SampleLesson.2abc37eb.png",
+    "static/media/VincentBio.200ef0ae.jpg": "/cs-central/static/media/VincentBio.200ef0ae.jpg",
     "static/media/VisitorHome.0a25315e.png": "/cs-central/static/media/VisitorHome.0a25315e.png",
     "static/media/WMCodeInfo.20d566ef.png": "/cs-central/static/media/WMCodeInfo.20d566ef.png",
-    "static/media/YoussefBio.a8854835.png": "/cs-central/static/media/YoussefBio.a8854835.png",
     "static/media/semantic.less": "/cs-central/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
@@ -333,6 +332,6 @@
     "static/css/153.98eba1ca.chunk.css",
     "static/js/153.cefd52cb.chunk.js",
     "static/css/main.7f831702.chunk.css",
-    "static/js/main.d05343bd.chunk.js"
+    "static/js/main.7048f56a.chunk.js"
   ]
 }
